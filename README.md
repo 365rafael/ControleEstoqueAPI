@@ -113,7 +113,7 @@ No Visual Studio → **F5** ou **Ctrl + F5**.
 📍 Uberlândia - MG - Brasil  
 📧 [rafael.imu@gmail.com](mailto:rafael.imu@gmail.com)  
 📱 (34) 99713-2663  
-🔗 [LinkedIn](https://www.linkedin.com/in/rafael-arantes)  
+🔗 [LinkedIn](https://www.linkedin.com/in/rafaelarantes365/)  
 🔗 [GitHub](https://github.com/365rafael)
 
 ## 🏆 Licença
